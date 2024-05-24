@@ -21,7 +21,6 @@ zalo机器人, zalo逆向, zalo hook, zalo脚本 发消息 拦截消息
 
 # 联系方式
 
-飞机✈️: feifeilove888888
 
 wx: love111_feifeifei
 
